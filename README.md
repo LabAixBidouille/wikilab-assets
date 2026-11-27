@@ -21,7 +21,10 @@ pdf/<projet>/<fichier>.pdf
 
 Un sous-dossier par projet (`lets-steam`, `mimesis`, `unplugged`,
 `robots-meet-arts`, `steamcity`, `thedexterlab`, `youth-ai-lab`,
-`magnetics`).
+`magnetics`, `projets-du-lab`).
+
+Les fichiers de fabrication d'une fiche (SVG pour la découpe laser, STL pour
+l'impression 3D) se déposent au même endroit, regroupés dans une archive `.zip`.
 
 ## Conventions
 
